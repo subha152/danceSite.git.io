@@ -1,0 +1,258 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+header{
+    background-color:#303030;
+    padding: 10px;
+    font-size: 22px;
+    color: #ffffff;
+}
+.nav-link{
+    color: #ffffff;
+}
+.logo_img {
+    padding: 5px 0 5px 10px;
+}
+.sec-info {
+    background-image: url(./images/man.png);
+    width: 100%;
+    height: 793px;
+}
+h1.title {
+    padding: 360px 0 0 52px;
+    font-size: 90px;
+    color: #ffffff;
+}
+p.sec_para {
+    margin: 25px 0 0 34px;
+    font-size: 30px;
+    color: #ffff;
+}
+input.bt {
+    background: #ee6116;
+    border: 0;
+    padding: 4px 34px;
+    margin: 40px 0 0 74px;
+    font-size: 28px;
+    color: #ffff;
+    border-radius: 10px;
+}
+h1.title1 {
+    font-size: 90px;
+    text-align: center;
+    padding: 49px 0 30px;
+    color: #ffffff;
+}
+p.sec_para1 {
+    text-align: center;
+    font-size: 35px;
+    margin-bottom: 65px;
+    color: #ffffff;
+    cursor: pointer;
+    
+}
+.card-body{
+    text-align: center;
+    background-color: #303030;
+    color: #fff;
+}
+.card-sec{
+    margin-top: 100px;
+}
+section.sec1 {
+    background-image: url(images/img2.png);
+    height: 960px;
+}
+
+.sec_info2 {
+    background-image: url(images/img3.png);
+    height: 980px;
+}
+/*four Section part*/
+.sec4 {
+    background-image: url(images/img4.png);
+    height: 1900px;
+}
+.bt1 {
+    background-color: #303030;
+    color: #fff;
+    border: none;
+    padding: 12px 83px;
+    font-size: 20px;
+    margin: 20px 0 0 141px;
+    border-radius: 10px;
+}
+.sec_info4{
+    display: flex;
+}
+.sec_title3 {
+    text-align: center;
+    color: #ffffff;
+    margin: 36% 120px 0;
+    font-size: 40px;
+}
+.sec_para3 {
+    text-align: center;
+    color: #ffffff;
+    font-size: 25px;
+    margin-top: 50px;
+}
+.sec_info5{
+    display: flex;
+}
+.sec_info6{
+    background-color: #303030;
+}
+.sec_info6 {
+    width: 100%;
+    height: 970px;
+}
+.sec_title5 {
+    color: #ffff;
+    text-align: center;
+    padding: 200px 0 50px 0;
+    font-size: 75px;
+}
+.sec_para5 {
+    color: #ffffff;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 30px;
+}
+.club_sec {
+    color: #ffffff;
+    padding: 150px 180px 200px 180px;
+}
+.club_para {
+    font-size: 42px;
+}
+.next_club_para {
+    font-size: 50px;
+    text-align: center;
+    color: #ffffff;
+    padding-top: 335px;
+}
+.next_club_hr {
+    font-size: 60px;
+    text-align: center;
+    color: #ffffff;
+    margin-top: 56px;
+}
+.next_club {
+    background-image: url(images/man7.png);
+    width: 100%;
+    height: 966px;
+}
+.sec7 {
+    background-image: url(images/man8.png);
+    width: 100%;
+    height: 590px;
+}
+.before_footer_hr {
+    font-size: 75px;
+    text-align: center;
+    color: #ffffff;
+    padding-top: 130px;
+}
+.before_footer_para {
+    font-size: 30px;
+    text-align: center;
+    color: #ffffff;
+    padding-top: 50px;
+}
+.email_btn_sec {
+    display: flex;
+    font-size: 20px;
+    margin-top: 50px;
+}
+input[type="email"] {
+    height: 65px;
+    width: 533px;
+}
+input.bt3 {
+    width: 250px;
+    height: 65px;
+    background: #303030;
+    border: none;
+    color: #ffff;
+    font-size: 25px;
+}
+.email_btn_sec {
+    margin-left: 22%;
+}
+.footer_sec {
+    background-color: #303030;
+    width: 100%;
+    height: 470px;
+    padding: 90px 55px 55px 90px;
+}
+.foot_hr{
+    color: #ffffff;
+    font-size: 30px;
+    margin-bottom: 50px;
+
+}
+.footer_pr{
+    color: #ffffff;
+    font-size: 20px;
+}
+.social_part{
+    margin-top: 40px;
+}
+.card {
+    box-shadow: 1px 1px 10px grey;
+    border: none;
+    transition: all background 6s ease;
+    cursor: pointer;
+}
+input[type="email"] {
+    padding-left: 30px;
+    font-size: 25px;
+}
+.customar_hr{
+    font-size: 67px;
+}
+img.image4 {
+    height: 916px;
+}
+img.image0 {
+    padding-left: 141px;
+}
+.img1_sec {
+    background: #ee6116;
+}
+.img1_sec {
+    padding: 70px 100px 10px 100px;
+}
+.sec2 .card-body{
+    background-color: #ee6116;
+}
+.secbtn3{
+    border: none;
+    width: 200px;
+    height: 40px;
+    background-color: #303030;
+    color: #ffffff;
+    border-radius: 8px;
+    margin: 30px 15px;
+}
+a{
+    text-decoration: none;
+}
+a.s1{
+    padding: 10px;
+}
+a.s2{
+    padding: 10px;
+}
+a.s3{
+    padding: 10px;
+}
+a.s4{
+    padding: 10px;
+}
+a.nav-link {
+    padding-top: 21px;
+}
